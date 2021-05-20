@@ -8,7 +8,7 @@ date: "5/19/2021"
 output: html_document
 ---
 
-## World Happiness Score Project:
+## Project 1: World Happiness Score Project
 
 Is happiness correlated to a persons living standards and productivity? I posed this question as a way to answer a series of questions that attribute to why people in various countries would be happy or not? The first of which being, is GDP per Capita correlated with a happiness score? More importantly does a higher gdp per capita score lead to a higher happiness score? As well as does a lower gdp per capita equal to a lower happiness score?
 
